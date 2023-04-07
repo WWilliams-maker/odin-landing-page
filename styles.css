@@ -97,3 +97,27 @@ button {
     margin: 50px;
     text-align: center;
 }
+
+.box {
+    width: 150px;
+}
+
+.section3 {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+}
+
+.qoute {
+    font-size: 36px;
+    font-style: italic;
+    color:#1F2937
+}
+
+.qoute-author {
+    color:#1F2937;
+    font-weight: bold;
+    align-self: flex-end;
+}
