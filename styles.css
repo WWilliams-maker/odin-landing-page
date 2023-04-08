@@ -141,3 +141,12 @@ button {
     border-radius: 5px;
     border: 2px solid white;
 }
+
+.footer {
+    background-color: #1F2937;
+    color:#F9FAF8;
+    align-items: flex-end;
+    padding: 20px;
+    font-size: 9px;
+    text-align: center;
+}
